@@ -8,4 +8,4 @@ function getAverage(marks){
        return Math.floor(av/marks.length)
    }
    
-   // Return the average of the given array rounded down to its nearest integer.
+   // Return the average of the given array rounded down to its nearest integer. 
